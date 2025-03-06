@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: cb65c93182b9c4f459956fbf61d8291f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ice_sound: {fileID: 8300000, guid: 4a9999ac2cdf77e4785810ab455f0cc0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
